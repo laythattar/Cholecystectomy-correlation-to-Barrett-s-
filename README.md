@@ -12,19 +12,25 @@ None
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Conservative-phlebotomy-for-reducing-blood-transfusions/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
+![Principle results for benefit]
 
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
+The meta-regression for the primary outcomes are below. Additional [meta-regressions]
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Conservative-phlebotomy-for-reducing-blood-transfusions/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
+![Principle results for benefit]
 
 References:
 ----------------------------------
 ### Systematic review(s)
-None
+1. Coats M, Shimi SM. Cholecystectomy and the risk of alimentary tract cancers: A systematic review. Review. PubMed PMID: [25834337](http://pubmed.gov/25834337)
+
 
 ### Controlled study(s) that are more recent
-None
+1. Freedman J, Lagergren J, Bergström R, Näslund E, Nyrén O. Cholecystectomy, peptic ulcer disease and the risk of adenocarcinoma of the oesophagus and gastric cardia. PubMed PMID: [10931056](http://pubmed.gov/10931056). "Case-Control study"
+2. Nogueira L, Freedman ND, Engels EA, Warren JL, Castro F, Koshiol J. Gallstones, cholecystectomy, and risk of digestive system cancers. PubMed PMID: [24470530](http://pubmed.gov/24470530). "Case-Control study"
+3. Goldacre MJ, Abisgold JD, Seagroatt V, Yeates D. Cancer after cholecystectomy: record-linkage cohort study. PubMed PMID: [15770220](http://pubmed.gov/15770220). "Cohort study"
+4. Lagergren J, Mattsson F. Cholecystectomy as a risk factor for oesophageal adenocarcinoma. PubMed PMID: [21590760](http://pubmed.gov/21590760).
+5. Kunsch S, Neesse A, Huth J, Steinkamp M, Klaus J, Adler G, Gress TM, Ellenrieder V. Increased Duodeno-Gastro-Esophageal Reflux (DGER) in symptomatic GERD patients with a history of cholecystectomy. PubMed PMID: [19662586](http://pubmed.gov/19662586). "DGER"
+
 
 #### Newer controlled study(s) undergoing review
 None
