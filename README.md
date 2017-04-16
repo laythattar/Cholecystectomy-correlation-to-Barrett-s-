@@ -29,11 +29,14 @@ References:
 2. Nogueira L, Freedman ND, Engels EA, Warren JL, Castro F, Koshiol J. Gallstones, cholecystectomy, and risk of digestive system cancers. PubMed PMID: [24470530](http://pubmed.gov/24470530). "Case-Control study"
 3. Goldacre MJ, Abisgold JD, Seagroatt V, Yeates D. Cancer after cholecystectomy: record-linkage cohort study. PubMed PMID: [15770220](http://pubmed.gov/15770220). "Cohort study"
 4. Lagergren J, Mattsson F. Cholecystectomy as a risk factor for oesophageal adenocarcinoma. PubMed PMID: [21590760](http://pubmed.gov/21590760).
-5. Kunsch S, Neesse A, Huth J, Steinkamp M, Klaus J, Adler G, Gress TM, Ellenrieder V. Increased Duodeno-Gastro-Esophageal Reflux (DGER) in symptomatic GERD patients with a history of cholecystectomy. PubMed PMID: [19662586](http://pubmed.gov/19662586). "DGER"
+5. Shah Gilani SN, Bass GA, Kharytaniuk N, Downes MR, Caffrey EF, Tobbia I, Walsh TN. Gastroesophageal Mucosal Injury after Cholecystectomy: An Indication for Surveillance?. PubMed PMID: [27993699](http://pubmed.gov/27993699).
+6. Atak I, Ozdil K, Yücel M, Caliskan M, Kilic A, Erdem H, Alimoglu O. The effect of laparoscopic cholecystectomy on the development of alkaline reflux gastritis and intestinal metaplasia. PubMed PMID: [22260822](http://pubmed.gov/22260822)
+7. Dixon MF, Neville PM, Mapstone NP, Moayyedi P, Axon AT. Bile reflux gastritis and Barrett's oesophagus: further evidence of a role for duodenogastro-oesophageal reflux?. PMID: [11511557](http://pubmed.gov/11511557).
 
 
 #### Newer controlled study(s) undergoing review
-None
+1. Kunsch S, Neesse A, Huth J, Steinkamp M, Klaus J, Adler G, Gress TM, Ellenrieder V. Increased Duodeno-Gastro-Esophageal Reflux (DGER) in symptomatic GERD patients with a history of cholecystectomy. PubMed PMID: [19662586](http://pubmed.gov/19662586). "DGER
+2. Zaninotto G, Portale G, Parenti A, Lanza C, Costantini M, Molena D, Ruol A, Battaglia G, Costantino M, Epifani M, Nicoletti L. Role of acid and bile reflux in development of specialised intestinal metaplasia in distal oesophagus. PMID: [12038808](http://pubmed.gov/12038808).
 
 #### New study(s) *excluded* 
 None
