@@ -39,6 +39,7 @@ References:
 #### Newer controlled study(s) undergoing review
 1. Kunsch S, Neesse A, Huth J, Steinkamp M, Klaus J, Adler G, Gress TM, Ellenrieder V. Increased Duodeno-Gastro-Esophageal Reflux (DGER) in symptomatic GERD patients with a history of cholecystectomy. PubMed PMID: [19662586](http://pubmed.gov/19662586). "DGER
 2. Zaninotto G, Portale G, Parenti A, Lanza C, Costantini M, Molena D, Ruol A, Battaglia G, Costantino M, Epifani M, Nicoletti L. Role of acid and bile reflux in development of specialised intestinal metaplasia in distal oesophagus. PMID: [12038808](http://pubmed.gov/12038808).
+3. Rantanen T, Oksala N, Sand J. Adenocarcinoma of the Oesophagus and Oesophagogastric Junction: Analysis of Incidence and Risk Factors. Anticancer Res. 2016 May;36(5):2323-9. PubMed PMID: [27127139](http://pubmed.gov/27127139)
 
 #### New study(s) *excluded* 
 None
