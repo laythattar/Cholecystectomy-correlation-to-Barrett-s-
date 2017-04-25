@@ -35,6 +35,8 @@ References:
 
 ### Controlled study(s) of DGER
 1. Lorusso D, Misciagna G, Mangini V, Messa C, Cavallini A, Caruso ML, Giorgio P, Guerra V. Duodenogastric reflux of bile acids, gastrin and parietal cells, and gastric acid secretion before and 6 months after cholecystectomy. PMID: [2349983](http://pubmed.gov/2349983).
+2. Mercan E, Duman U, Tihan D, Dilektasli E, Senol K. Cholecystectomy and duodenogastric reflux: interacting effects over the gastric mucosa. Springerplus. PMID: 27917345
+3. Pfaffenbach B, Hullerum J, Orth KH, Langer M, Stabenow-Lohbauer U, Lux G. Bile and acid reflux in long and short segment Barrett's esophagus, and in reflux disease. Z Gastroenterol. PMID: 10965553.
 
 #### Newer controlled study(s) undergoing review
 1. Kunsch S, Neesse A, Huth J, Steinkamp M, Klaus J, Adler G, Gress TM, Ellenrieder V. Increased Duodeno-Gastro-Esophageal Reflux (DGER) in symptomatic GERD patients with a history of cholecystectomy. PubMed PMID: [19662586](http://pubmed.gov/19662586). "DGER
