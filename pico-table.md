@@ -2,7 +2,7 @@
 
 Study        | PMID                                    |Patients/population/problem|Intervention|Comparison|Outcome|
 ------------ | --------------------------------------|---------------------------|------------|----------|-------|
-| Freedman J |[10931056](http://pubmed.gov/10931056) | |  |  | |
+| Freedman J |[10931056](http://pubmed.gov/10931056) | Adults had cholecystectomy| None |  | develomen of Barret's|
 | Nogueira L |[24470530](http://pubmed.gov/24470530)| |  |  | |
 | Goldacre MJ|[15770220](http://pubmed.gov/15770220)| |  |  | |
 | Lagergren J|[21590760](http://pubmed.gov/21590760) | |  |  | |
